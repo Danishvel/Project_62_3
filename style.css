@@ -1,0 +1,15 @@
+.img-responsive{
+    height: 1600;
+    width:  1200; 
+}
+#Cars{
+    width:1200px;
+}
+#Car{
+    height: 500px;
+    width: 500px;
+}
+Body{
+    text-align: center;
+    background: blueviolet;
+}
